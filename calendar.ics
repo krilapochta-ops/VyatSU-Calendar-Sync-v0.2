@@ -1,0 +1,1710 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VyatSU Calendar Sync//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ВятГУ · МНб-3601-02-00 · 1 подгруппа
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260901T140000
+DTEND;TZID=Europe/Moscow:20260901T153000
+DTSTAMP:20261103T052350Z
+UID:ef5fed5bd28c6ab58a5fad97@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-110\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260901T154500
+DTEND;TZID=Europe/Moscow:20260901T171500
+DTSTAMP:20261103T052350Z
+UID:ff17d68ad756f527e5d3edc3@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 16-302\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:16-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260902T172000
+DTEND;TZID=Europe/Moscow:20260902T185000
+DTSTAMP:20261103T052350Z
+UID:253ac0e5dd724b97960b84e4@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260902T185500
+DTEND;TZID=Europe/Moscow:20260902T202500
+DTSTAMP:20261103T052350Z
+UID:f8743eee612f9ec8a7cee4e4@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260903T114500
+DTEND;TZID=Europe/Moscow:20260903T131500
+DTSTAMP:20261103T052350Z
+UID:9e81957a2c0b5205ee51c1d0@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-130\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260903T140000
+DTEND;TZID=Europe/Moscow:20260903T153000
+DTSTAMP:20261103T052350Z
+UID:8b852213529535cf530620fa@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260903T154500
+DTEND;TZID=Europe/Moscow:20260903T171500
+DTSTAMP:20261103T052350Z
+UID:764ec792c14b113c5456d326@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20260903T172000
+DTEND;TZID=Europe/Moscow:20260903T185000
+DTSTAMP:20261103T052350Z
+UID:2d68b0cfb3c8561ed8d44b54@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260907T172000
+DTEND;TZID=Europe/Moscow:20260907T185000
+DTSTAMP:20261103T052350Z
+UID:5606af355cc84d8349dfa063@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260907T185500
+DTEND;TZID=Europe/Moscow:20260907T202500
+DTSTAMP:20261103T052350Z
+UID:a9a0e5355801f119724fb427@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260908T100000
+DTEND;TZID=Europe/Moscow:20260908T113000
+DTSTAMP:20261103T052350Z
+UID:12b4669ff0dcf857e1dd584c@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 16-121\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:16-121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260908T114500
+DTEND;TZID=Europe/Moscow:20260908T131500
+DTSTAMP:20261103T052350Z
+UID:e17caeb1688ba69fc9780a8e@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 16-209\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:16-209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260908T140000
+DTEND;TZID=Europe/Moscow:20260908T153000
+DTSTAMP:20261103T052350Z
+UID:c6acdf6adeefb01c19ac534a@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260908T154500
+DTEND;TZID=Europe/Moscow:20260908T171500
+DTSTAMP:20261103T052350Z
+UID:d88e526817115f029a6dc107@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260910T114500
+DTEND;TZID=Europe/Moscow:20260910T131500
+DTSTAMP:20261103T052350Z
+UID:47d2b5db9a68572e4755a58e@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260910T140000
+DTEND;TZID=Europe/Moscow:20260910T153000
+DTSTAMP:20261103T052350Z
+UID:b737e29c5eecc8ffc17a81b3@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260910T154500
+DTEND;TZID=Europe/Moscow:20260910T171500
+DTSTAMP:20261103T052350Z
+UID:d6ebc4d3e4aa6740a114e651@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20260910T172000
+DTEND;TZID=Europe/Moscow:20260910T185000
+DTSTAMP:20261103T052350Z
+UID:b295f842017462c669dec61a@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260911T154500
+DTEND;TZID=Europe/Moscow:20260911T171500
+DTSTAMP:20261103T052350Z
+UID:043e8c0a201d6c2de1412ac2@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-104\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260911T172000
+DTEND;TZID=Europe/Moscow:20260911T185000
+DTSTAMP:20261103T052350Z
+UID:fb568c1edfe80051dd504ce7@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260911T185500
+DTEND;TZID=Europe/Moscow:20260911T202500
+DTSTAMP:20261103T052350Z
+UID:46c6e835a745df7d28f5c231@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260914T172000
+DTEND;TZID=Europe/Moscow:20260914T185000
+DTSTAMP:20261103T052350Z
+UID:d52db3834dafb73b7070010c@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260914T185500
+DTEND;TZID=Europe/Moscow:20260914T202500
+DTSTAMP:20261103T052350Z
+UID:283c97b4b29ee0e15a872a5a@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260915T100000
+DTEND;TZID=Europe/Moscow:20260915T113000
+DTSTAMP:20261103T052350Z
+UID:b0a8eedc339054a066bbb829@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 14-114\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260915T114500
+DTEND;TZID=Europe/Moscow:20260915T131500
+DTSTAMP:20261103T052350Z
+UID:0a3f8502d75502daf504e186@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-131\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260915T140000
+DTEND;TZID=Europe/Moscow:20260915T153000
+DTSTAMP:20261103T052350Z
+UID:ea3ecfc9aca85f1bfe5b6d7a@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260915T154500
+DTEND;TZID=Europe/Moscow:20260915T171500
+DTSTAMP:20261103T052350Z
+UID:73e9757005a9ae3c6c2a1132@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260916T172000
+DTEND;TZID=Europe/Moscow:20260916T185000
+DTSTAMP:20261103T052350Z
+UID:af4be2ce247a9b13aa430be5@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260916T185500
+DTEND;TZID=Europe/Moscow:20260916T202500
+DTSTAMP:20261103T052350Z
+UID:ad02258a531426312d10dcab@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260917T114500
+DTEND;TZID=Europe/Moscow:20260917T131500
+DTSTAMP:20261103T052350Z
+UID:1b78db723a047219138ffee9@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-130\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260917T140000
+DTEND;TZID=Europe/Moscow:20260917T153000
+DTSTAMP:20261103T052350Z
+UID:24299d96f54e4cf034f009a6@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260917T154500
+DTEND;TZID=Europe/Moscow:20260917T171500
+DTSTAMP:20261103T052350Z
+UID:d6634413339aa14bf2374df4@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20260917T172000
+DTEND;TZID=Europe/Moscow:20260917T185000
+DTSTAMP:20261103T052350Z
+UID:40c5ec460ff4f71d503b0f79@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260918T154500
+DTEND;TZID=Europe/Moscow:20260918T171500
+DTSTAMP:20261103T052350Z
+UID:bce877366ecf51585988df05@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-332\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260918T172000
+DTEND;TZID=Europe/Moscow:20260918T185000
+DTSTAMP:20261103T052350Z
+UID:8db4ca8409e80edd74c58a68@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-332\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260921T172000
+DTEND;TZID=Europe/Moscow:20260921T185000
+DTSTAMP:20261103T052350Z
+UID:0d079975d88396247421c636@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260921T185500
+DTEND;TZID=Europe/Moscow:20260921T202500
+DTSTAMP:20261103T052350Z
+UID:6db80fe7e4ca3e8626187b89@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260922T100000
+DTEND;TZID=Europe/Moscow:20260922T113000
+DTSTAMP:20261103T052350Z
+UID:95d5e4968d80e3629f41508e@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 16-121\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:16-121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260922T114500
+DTEND;TZID=Europe/Moscow:20260922T131500
+DTSTAMP:20261103T052350Z
+UID:bbd18fe0382ef5308530f1c6@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 16-209\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:16-209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260922T140000
+DTEND;TZID=Europe/Moscow:20260922T153000
+DTSTAMP:20261103T052350Z
+UID:991e02afffd36aef09a723b5@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20260922T154500
+DTEND;TZID=Europe/Moscow:20260922T171500
+DTSTAMP:20261103T052350Z
+UID:3bd0a16b95d8d535075333d9@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260924T114500
+DTEND;TZID=Europe/Moscow:20260924T131500
+DTSTAMP:20261103T052350Z
+UID:82d51a19d9b128dc3b74acc8@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260924T140000
+DTEND;TZID=Europe/Moscow:20260924T153000
+DTSTAMP:20261103T052350Z
+UID:609386dc854cac3e13c800ec@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260924T154500
+DTEND;TZID=Europe/Moscow:20260924T171500
+DTSTAMP:20261103T052350Z
+UID:96606a776e3ce284b1002148@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20260924T172000
+DTEND;TZID=Europe/Moscow:20260924T185000
+DTSTAMP:20261103T052350Z
+UID:39d7728605539ae99fa160ed@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260925T154500
+DTEND;TZID=Europe/Moscow:20260925T171500
+DTSTAMP:20261103T052350Z
+UID:c761ecefb632b1a9373473f3@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-104\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260925T172000
+DTEND;TZID=Europe/Moscow:20260925T185000
+DTSTAMP:20261103T052350Z
+UID:2117de28210cad77da7b219b@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20260925T185500
+DTEND;TZID=Europe/Moscow:20260925T202500
+DTSTAMP:20261103T052350Z
+UID:eee9736e8def5b9f68fbedff@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260928T172000
+DTEND;TZID=Europe/Moscow:20260928T185000
+DTSTAMP:20261103T052350Z
+UID:856eca0b8248e9fae7d012e6@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260928T185500
+DTEND;TZID=Europe/Moscow:20260928T202500
+DTSTAMP:20261103T052350Z
+UID:44516dbae2f81d7fe93b8381@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260929T100000
+DTEND;TZID=Europe/Moscow:20260929T113000
+DTSTAMP:20261103T052350Z
+UID:56b121cf804f5615afd9c934@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 14-114\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20260929T114500
+DTEND;TZID=Europe/Moscow:20260929T131500
+DTSTAMP:20261103T052350Z
+UID:2eae96eb9eb7e12e4d4d0dc7@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-131\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260929T140000
+DTEND;TZID=Europe/Moscow:20260929T153000
+DTSTAMP:20261103T052350Z
+UID:17e2721cbd798623db561ce9@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20260929T154500
+DTEND;TZID=Europe/Moscow:20260929T171500
+DTSTAMP:20261103T052350Z
+UID:e1652913e269725785c5d876@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260930T172000
+DTEND;TZID=Europe/Moscow:20260930T185000
+DTSTAMP:20261103T052350Z
+UID:9bb9874a215c93558ffcfd84@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20260930T185500
+DTEND;TZID=Europe/Moscow:20260930T202500
+DTSTAMP:20261103T052350Z
+UID:cc696e2cf19c55b240e50810@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261001T114500
+DTEND;TZID=Europe/Moscow:20261001T131500
+DTSTAMP:20261103T052350Z
+UID:bec2d2887e88faa0ed3df80a@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-130\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261001T140000
+DTEND;TZID=Europe/Moscow:20261001T153000
+DTSTAMP:20261103T052350Z
+UID:4f11a234baf3591764b7ffee@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261001T154500
+DTEND;TZID=Europe/Moscow:20261001T171500
+DTSTAMP:20261103T052350Z
+UID:b021410a0709cd4c60ed477f@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20261001T172000
+DTEND;TZID=Europe/Moscow:20261001T185000
+DTSTAMP:20261103T052350Z
+UID:6acbac3934c7eac16d79e249@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261002T154500
+DTEND;TZID=Europe/Moscow:20261002T171500
+DTSTAMP:20261103T052350Z
+UID:5d4be29de4a55d94a4255269@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-332\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261002T172000
+DTEND;TZID=Europe/Moscow:20261002T185000
+DTSTAMP:20261103T052350Z
+UID:6c106b3eec88fe7bef800005@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-332\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261005T172000
+DTEND;TZID=Europe/Moscow:20261005T185000
+DTSTAMP:20261103T052350Z
+UID:b870919335942a4a84b80892@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261005T185500
+DTEND;TZID=Europe/Moscow:20261005T202500
+DTSTAMP:20261103T052350Z
+UID:b4ad4b786e73a8904bf6b016@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261006T100000
+DTEND;TZID=Europe/Moscow:20261006T113000
+DTSTAMP:20261103T052350Z
+UID:ce53c4ce8f5245c174a17c9b@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 16-121\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:16-121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261006T114500
+DTEND;TZID=Europe/Moscow:20261006T131500
+DTSTAMP:20261103T052350Z
+UID:849156b3704df8782410b4ac@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 16-209\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:16-209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261006T140000
+DTEND;TZID=Europe/Moscow:20261006T153000
+DTSTAMP:20261103T052350Z
+UID:1a8f2092a26dc3f3060b06bf@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261006T154500
+DTEND;TZID=Europe/Moscow:20261006T171500
+DTSTAMP:20261103T052350Z
+UID:b4fbc3a07710e6fd9a417236@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261008T114500
+DTEND;TZID=Europe/Moscow:20261008T131500
+DTSTAMP:20261103T052350Z
+UID:33a163bbdca0b3c236da21e5@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261008T140000
+DTEND;TZID=Europe/Moscow:20261008T153000
+DTSTAMP:20261103T052350Z
+UID:34c9401a739f43ee01566e2a@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261008T154500
+DTEND;TZID=Europe/Moscow:20261008T171500
+DTSTAMP:20261103T052350Z
+UID:c4f9d00ef5957f2f7d1ea23b@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20261008T172000
+DTEND;TZID=Europe/Moscow:20261008T185000
+DTSTAMP:20261103T052350Z
+UID:602697deb22844610de1e8c8@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261009T154500
+DTEND;TZID=Europe/Moscow:20261009T171500
+DTSTAMP:20261103T052350Z
+UID:2cbda1f04b3d49818f0d0011@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-104\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261009T172000
+DTEND;TZID=Europe/Moscow:20261009T185000
+DTSTAMP:20261103T052350Z
+UID:31697d105ecafac273312ed9@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261009T185500
+DTEND;TZID=Europe/Moscow:20261009T202500
+DTSTAMP:20261103T052350Z
+UID:ec189358c1f1b15fa7e879de@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261012T172000
+DTEND;TZID=Europe/Moscow:20261012T185000
+DTSTAMP:20261103T052350Z
+UID:4573ae77f5fc4c9f01395e9e@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261012T185500
+DTEND;TZID=Europe/Moscow:20261012T202500
+DTSTAMP:20261103T052350Z
+UID:8eb9e82aa6acd9ee978d90b6@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261013T100000
+DTEND;TZID=Europe/Moscow:20261013T113000
+DTSTAMP:20261103T052350Z
+UID:9ede7e81e307b2fdb0c7753d@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 14-114\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261013T114500
+DTEND;TZID=Europe/Moscow:20261013T131500
+DTSTAMP:20261103T052350Z
+UID:6efda075bb7fbe81583f8cdc@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-131\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261013T140000
+DTEND;TZID=Europe/Moscow:20261013T153000
+DTSTAMP:20261103T052350Z
+UID:6bd573ce6829c5b1f8cd53b0@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261013T154500
+DTEND;TZID=Europe/Moscow:20261013T171500
+DTSTAMP:20261103T052350Z
+UID:d3ce4b90096851afb27d663e@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261014T172000
+DTEND;TZID=Europe/Moscow:20261014T185000
+DTSTAMP:20261103T052350Z
+UID:ec938cd899e060e6729968cf@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261014T185500
+DTEND;TZID=Europe/Moscow:20261014T202500
+DTSTAMP:20261103T052350Z
+UID:96feed93b79501b3479b4481@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261015T114500
+DTEND;TZID=Europe/Moscow:20261015T131500
+DTSTAMP:20261103T052350Z
+UID:2202b7f576d93115ea590714@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-130\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261015T140000
+DTEND;TZID=Europe/Moscow:20261015T153000
+DTSTAMP:20261103T052350Z
+UID:ab22f954802b1d737f236951@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261015T154500
+DTEND;TZID=Europe/Moscow:20261015T171500
+DTSTAMP:20261103T052350Z
+UID:4dc991a28cb09a287dde2be3@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20261015T172000
+DTEND;TZID=Europe/Moscow:20261015T185000
+DTSTAMP:20261103T052350Z
+UID:469fec08a5da500d7caccf4a@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261016T154500
+DTEND;TZID=Europe/Moscow:20261016T171500
+DTSTAMP:20261103T052350Z
+UID:daacc31bf69be901cd1fc151@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-332\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261016T172000
+DTEND;TZID=Europe/Moscow:20261016T185000
+DTSTAMP:20261103T052350Z
+UID:666bb0cf06df4659d7778c0f@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-332\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261019T172000
+DTEND;TZID=Europe/Moscow:20261019T185000
+DTSTAMP:20261103T052350Z
+UID:243c69523976ec8769e4f3f8@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261019T185500
+DTEND;TZID=Europe/Moscow:20261019T202500
+DTSTAMP:20261103T052350Z
+UID:4a67e1d89344465eade328a1@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261020T100000
+DTEND;TZID=Europe/Moscow:20261020T113000
+DTSTAMP:20261103T052350Z
+UID:7e6cf7228f82c1dd1ccd3b58@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 16-121\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:16-121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261020T114500
+DTEND;TZID=Europe/Moscow:20261020T131500
+DTSTAMP:20261103T052350Z
+UID:bcf7a157043fa8b08c1c836e@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 16-209\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:16-209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261020T140000
+DTEND;TZID=Europe/Moscow:20261020T153000
+DTSTAMP:20261103T052350Z
+UID:31e5ccaf97bcb691d43ee88e@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261020T154500
+DTEND;TZID=Europe/Moscow:20261020T171500
+DTSTAMP:20261103T052350Z
+UID:ced57fbc90f1fa3a7b53a701@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261022T114500
+DTEND;TZID=Europe/Moscow:20261022T131500
+DTSTAMP:20261103T052350Z
+UID:5f15fbc7de254aafbffd3844@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261022T140000
+DTEND;TZID=Europe/Moscow:20261022T153000
+DTSTAMP:20261103T052350Z
+UID:001d8558fac12a1717891185@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261022T154500
+DTEND;TZID=Europe/Moscow:20261022T171500
+DTSTAMP:20261103T052350Z
+UID:cbd4c93977e0d9b4db223cb9@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20261022T172000
+DTEND;TZID=Europe/Moscow:20261022T185000
+DTSTAMP:20261103T052350Z
+UID:a723fdc3e20e23bd097065be@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261023T154500
+DTEND;TZID=Europe/Moscow:20261023T171500
+DTSTAMP:20261103T052350Z
+UID:e4786560c7518d181eb70447@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-104\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261023T172000
+DTEND;TZID=Europe/Moscow:20261023T185000
+DTSTAMP:20261103T052350Z
+UID:84e8a6242166aae944ce21e8@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261023T185500
+DTEND;TZID=Europe/Moscow:20261023T202500
+DTSTAMP:20261103T052350Z
+UID:2627c93c4ba2011b7d5fe73d@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261026T172000
+DTEND;TZID=Europe/Moscow:20261026T185000
+DTSTAMP:20261103T052350Z
+UID:acc6dadb3ea4b773f0f94278@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261026T185500
+DTEND;TZID=Europe/Moscow:20261026T202500
+DTSTAMP:20261103T052350Z
+UID:a9b96d97b4bc62bc90c7a088@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261027T100000
+DTEND;TZID=Europe/Moscow:20261027T113000
+DTSTAMP:20261103T052350Z
+UID:053370844765eb4a319189a5@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 14-114\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261027T114500
+DTEND;TZID=Europe/Moscow:20261027T131500
+DTSTAMP:20261103T052350Z
+UID:639e7ad295b29fd8afe77134@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-131\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261027T140000
+DTEND;TZID=Europe/Moscow:20261027T153000
+DTSTAMP:20261103T052350Z
+UID:2acf8e189daddaf57448a473@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261027T154500
+DTEND;TZID=Europe/Moscow:20261027T171500
+DTSTAMP:20261103T052350Z
+UID:11917cf34e077936de0ab33b@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261028T172000
+DTEND;TZID=Europe/Moscow:20261028T185000
+DTSTAMP:20261103T052350Z
+UID:639eefe6676d3990c945db49@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261028T185500
+DTEND;TZID=Europe/Moscow:20261028T202500
+DTSTAMP:20261103T052350Z
+UID:afb7832de50ba86d739c835e@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261029T114500
+DTEND;TZID=Europe/Moscow:20261029T131500
+DTSTAMP:20261103T052350Z
+UID:1e6442656be46d1574e49d04@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 14-130\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261029T140000
+DTEND;TZID=Europe/Moscow:20261029T153000
+DTSTAMP:20261103T052350Z
+UID:359f0866ee4ef01ad9f95a2d@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261029T154500
+DTEND;TZID=Europe/Moscow:20261029T171500
+DTSTAMP:20261103T052350Z
+UID:270f3d949559502bbbf4c24e@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Ганебных Е.
+ В.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 по
+ дгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spravoc
+ hnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20261029T172000
+DTEND;TZID=Europe/Moscow:20261029T185000
+DTSTAMP:20261103T052350Z
+UID:bab61c4b7cd77b70c0ec8168@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261030T154500
+DTEND;TZID=Europe/Moscow:20261030T171500
+DTSTAMP:20261103T052350Z
+UID:d94ca3592c829c1ea752e086@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-332\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261030T172000
+DTEND;TZID=Europe/Moscow:20261030T185000
+DTSTAMP:20261103T052350Z
+UID:9592e8ece861a4241ce84479@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-332\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261102T172000
+DTEND;TZID=Europe/Moscow:20261102T185000
+DTSTAMP:20261103T052350Z
+UID:49fb5ccc0ff5d10b7b82a022@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Русских Н.В
+ .\nАудитория: 2-405\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теоретические основы управления ин
+ вестиционными проектами
+DTSTART;TZID=Europe/Moscow:20261102T185500
+DTEND;TZID=Europe/Moscow:20261102T202500
+DTSTAMP:20261103T052350Z
+UID:7f3bb9fea79ade385c1135d0@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Русских Н.В.\nАудитория: 2-405\nГруппа: М
+ Нб-3601-02-00\, 01 подгруппа\nИсточник: https://old.vya
+ tsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stude
+ ntov.html
+LOCATION:2-405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261103T100000
+DTEND;TZID=Europe/Moscow:20261103T113000
+DTSTAMP:20261103T052350Z
+UID:471f7ddb708a22d2f6d60d12@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Палкина М.В
+ .\nАудитория: 16-121\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:16-121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стратегический менеджмент
+DTSTART;TZID=Europe/Moscow:20261103T114500
+DTEND;TZID=Europe/Moscow:20261103T131500
+DTSTAMP:20261103T052350Z
+UID:66346cbd3f666e4a18fe2a69@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Палкина М.В.\nАудитория: 16-209\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:16-209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261103T140000
+DTEND;TZID=Europe/Moscow:20261103T153000
+DTSTAMP:20261103T052350Z
+UID:7f539ab8b293288640de231e@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информационное обеспечение управле
+ ния проектами
+DTSTART;TZID=Europe/Moscow:20261103T154500
+DTEND;TZID=Europe/Moscow:20261103T171500
+DTSTAMP:20261103T052350Z
+UID:92258dc2b8004d515c1235e4@vyatsu-calendar.local
+DESCRIPTION:Лабораторная работа\nПреподавате
+ ль: Ганебных Е.В.\nАудитория: 14-133\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261105T114500
+DTEND;TZID=Europe/Moscow:20261105T131500
+DTSTAMP:20261103T052350Z
+UID:2ea6c745e95bb7d55b3845a1@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Алцыбеева 
+ И.Г.\nАудитория: 14-122\nГруппа: МНб-3601-02-00\, 01 
+ подгруппа\nИсточник: https://old.vyatsu.ru/studentu-1/spr
+ avochnaya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261105T140000
+DTEND;TZID=Europe/Moscow:20261105T153000
+DTSTAMP:20261103T052350Z
+UID:a01b2eaf853f28d28831ec56@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Планирование на предприятии
+DTSTART;TZID=Europe/Moscow:20261105T154500
+DTEND;TZID=Europe/Moscow:20261105T171500
+DTSTAMP:20261103T052350Z
+UID:f7136576be822ba7ce6a98f1@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Алцыбеева И.Г.\nАудитория: 14-131\nГрупп
+ а: МНб-3601-02-00\, 01 подгруппа\nИсточник: https://o
+ ld.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya
+ -studentov.html
+LOCATION:14-131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура
+DTSTART;TZID=Europe/Moscow:20261105T172000
+DTEND;TZID=Europe/Moscow:20261105T185000
+DTSTAMP:20261103T052350Z
+UID:846187c005fd4c9e7d106dbf@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Боков А.В.\nАудитория: 13-001\nГруппа: МН
+ б-3601-02-00\, 01 подгруппа\nИсточник: https://old.vyats
+ u.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-student
+ ov.html
+LOCATION:13-001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261106T154500
+DTEND;TZID=Europe/Moscow:20261106T171500
+DTSTAMP:20261103T052350Z
+UID:d526a6f9453cab0541207464@vyatsu-calendar.local
+DESCRIPTION:Лекция\nПреподаватель: Баршина Ю.И
+ .\nАудитория: 14-104\nГруппа: МНб-3601-02-00\, 01 под
+ группа\nИсточник: https://old.vyatsu.ru/studentu-1/spravochn
+ aya-informatsiya/raspisanie-zanyatiy-dlya-studentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261106T172000
+DTEND;TZID=Europe/Moscow:20261106T185000
+DTSTAMP:20261103T052350Z
+UID:befffb5472bf09c9767eccd2@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инициация и управление содержанием 
+ инвестиционного проекта
+DTSTART;TZID=Europe/Moscow:20261106T185500
+DTEND;TZID=Europe/Moscow:20261106T202500
+DTSTAMP:20261103T052350Z
+UID:29452bcab7ecc73b37f5733f@vyatsu-calendar.local
+DESCRIPTION:Практическое занятие\nПреподават
+ ель: Баршина Ю.И.\nАудитория: 14-104\nГруппа: 
+ МНб-3601-02-00\, 01 подгруппа\nИсточник: https://old.v
+ yatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-zanyatiy-dlya-stu
+ dentov.html
+LOCATION:14-104
+END:VEVENT
+END:VCALENDAR
