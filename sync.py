@@ -1,6 +1,6 @@
 """VyatSU group schedule -> subscribable Apple Calendar (.ics)."""
 from __future__ import annotations
-import hashlib, io, json, re, sys
+import hashlib, io, re
 from datetime import datetime, date, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
@@ -14,7 +14,6 @@ SOURCE = 'https://old.vyatsu.ru/studentu-1/spravochnaya-informatsiya/raspisanie-
 GROUP = 'МНб-3601-02-00'
 TZ = ZoneInfo('Europe/Moscow')
 TIME_RE = re.compile(r'(\d{2}:\d{2})\s*[-–]\s*(\d{2}:\d{2})')
-DATE_RE = re.compile(r'\b(\d{2})(\d{2})(20\d{2})\b')
 ROOM_RE = re.compile(r'\b\d{1,2}-\d{2,4}[_/]?\b')
 TYPES = ('Лабораторная работа', 'Практическое занятие', 'Лекция', 'Семинар')
 
@@ -66,37 +65,40 @@ def select_cell(raw):
 
 
 def extract_pdf(data, start):
-    """Read one PDF. University uses 7 time rows per day, 14 days across 4 pages."""
+    """Read one PDF. University uses seven table rows per day."""
     events = []
+    # A period can begin mid-week (for example 1 September on a Tuesday), while
+    # the generated PDF still starts with Monday of that week.
+    first_day = start - timedelta(days=start.weekday())
     with pdfplumber.open(io.BytesIO(data)) as pdf:
         day_offset = 0
         for page in pdf.pages:
-            # Use text-line geometry: seven lesson slots per day; dates appear rotated.
-            words = page.extract_words(x_tolerance=2, y_tolerance=3)
-            times = []
-            for w in words:
-                if w['x0'] > page.width * .34:
-                    continue
-                match = TIME_RE.fullmatch(w['text'].replace('–','-'))
-                if match:
-                    times.append((float(w['top']), float(w['bottom']), match.group(1), match.group(2)))
-            times.sort()
-            if not times or len(times) % 7:
-                raise ValueError(f'Unexpected timetable grid: {len(times)} time slots on page')
-            for index, (top, bottom, begin, end) in enumerate(times):
-                # The time label top is the top edge of its table row; next row starts after it.
-                next_top = times[index+1][0] if index+1 < len(times) else page.height - 30
-                # In long elective slots the text wraps, so use table horizontal rules when possible.
-                horizontal = sorted({round(l['top'], 1) for l in page.lines if abs(l['y1']-l['y0']) < 1 and l['x1']-l['x0'] > page.width*.55})
-                before = max((y for y in horizontal if y <= top+3), default=top-2)
-                after = min((y for y in horizontal if y > top+3), default=next_top)
-                cell = page.crop((page.width*.245, max(0,before+0.3), page.width*.95, min(page.height,after-0.3))).extract_text(x_tolerance=2, y_tolerance=3) or ''
+            table = page.extract_table()
+            rows = []
+            for row in table or []:
+                interval = (row[1] or '').replace('–', '-').strip() if len(row) > 1 else ''
+                if TIME_RE.fullmatch(interval):
+                    rows.append([row[0], interval, row[2] or ''])
+                elif rows and len(row) > 2 and row[2]:
+                    # A tall elective cell is sometimes returned as several
+                    # table rows without a repeated lesson interval.
+                    rows[-1][2] += '\n' + row[2]
+            if not rows or len(rows) % 7:
+                raise ValueError(f'Unexpected timetable grid: {len(rows) if rows else 0} rows on page')
+            for index, row in enumerate(rows):
+                if not row or len(row) < 3:
+                    raise ValueError('Unexpected timetable row')
+                match = TIME_RE.fullmatch((row[1] or '').replace('–', '-').strip())
+                if not match:
+                    raise ValueError(f'Unexpected lesson interval: {row[1]!r}')
+                begin, end = match.group(1), match.group(2)
+                cell = row[2] or ''
                 lesson = select_cell(cell)
                 if not lesson:
                     continue
-                lesson_date = start + timedelta(days=day_offset + index//7)
+                lesson_date = first_day + timedelta(days=day_offset + index//7)
                 events.append({**lesson, 'date':lesson_date, 'begin':begin, 'end':end})
-            day_offset += len(times)//7
+            day_offset += len(rows)//7
         if day_offset != 14:
             raise ValueError(f'Expected 14 days, got {day_offset}')
     return events
@@ -104,8 +106,12 @@ def extract_pdf(data, start):
 
 def make_ics(lessons):
     cal = Calendar(); cal.add('prodid','-//VyatSU Calendar Sync//RU'); cal.add('version','2.0')
+    cal.add('calscale', 'GREGORIAN')
+    cal.add('method', 'PUBLISH')
     cal.add('x-wr-calname',f'ВятГУ · {GROUP} · 1 подгруппа')
     cal.add('x-wr-timezone','Europe/Moscow')
+    cal.add('refresh-interval;value=duration', 'P1D')
+    cal.add('x-published-ttl', 'P1D')
     now = datetime.now(TZ)
     for x in lessons:
         event = Event()
