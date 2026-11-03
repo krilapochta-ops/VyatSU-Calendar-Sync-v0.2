@@ -5,6 +5,12 @@ on:
   schedule:
     # GitHub cron is UTC. 04:30 UTC = 07:30 in Kirov/Moscow year-round.
     - cron: "30 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - sync.py
+      - requirements.txt
+      - .github/workflows/sync.yml
 
 permissions:
   contents: write
