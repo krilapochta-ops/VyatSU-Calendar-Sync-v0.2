@@ -1,0 +1,52 @@
+name: Update VyatSU calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron is UTC. 04:30 UTC = 07:30 in Kirov/Moscow year-round.
+    - cron: "30 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vyatsu-calendar-sync
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Build calendar
+        run: python sync.py
+      - name: Validate calendar
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from icalendar import Calendar
+
+          path = Path("calendar.ics")
+          calendar = Calendar.from_ical(path.read_bytes())
+          events = list(calendar.walk("VEVENT"))
+          if not events:
+              raise SystemExit("calendar.ics contains no events")
+          print(f"Validated {len(events)} events")
+          PY
+      - name: Publish updated calendar in the repository
+        run: |
+          git add calendar.ics
+          if git diff --cached --quiet; then
+            echo "calendar.ics is already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update calendar"
+          git push
